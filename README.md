@@ -93,7 +93,7 @@ $ yarn dev:server
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
 
 &#xa0;
 
