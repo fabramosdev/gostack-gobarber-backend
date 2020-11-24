@@ -27,7 +27,7 @@
 <!-- Status -->
 
 <h4 align="center">
-	🚧  Primeiro Projeto Node 🚀 Under construction...  🚧
+	🚧  Backend aplicação Go Barber 🚀 Under construction...  🚧
 </h4>
 
 <hr>
